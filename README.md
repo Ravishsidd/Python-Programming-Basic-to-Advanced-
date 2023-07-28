@@ -1,4 +1,4 @@
-# Python-Programming-Handwritten-Notes-Basic-to-Advanced-
+# Python-Programming-Handwritten-Notes-from-Basic-to-Advanced-
 📚🐍 Sharing My Python Programming Handwritten Notes from Beginners to Advanced! 🚀📈📊
 
 Hey #LinkedInCommunity! 👋 As a passionate Python enthusiast, I'm thrilled to share my handwritten notes on Python programming, covering everything from the basics for beginners to more advanced concepts for seasoned developers. 📝🐍
